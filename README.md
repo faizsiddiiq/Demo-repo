@@ -1,4 +1,4 @@
 # Demo-repo
 this is my first repo
 <br>
-author- faizsiddiqi
+author- faizsiddiqi (It guy)
